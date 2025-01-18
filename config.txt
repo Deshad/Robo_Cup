@@ -1,0 +1,6 @@
+ball
+blue
+8*0.07
+500
+True
+True
