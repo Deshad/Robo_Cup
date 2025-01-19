@@ -1,5 +1,5 @@
 # NAO6 RoboCup Soccer Simulation
-
+![Game Daigram](Diagram_Robocup.png)
 ---
 
 ## Project Overview
