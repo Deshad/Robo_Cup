@@ -139,3 +139,33 @@ ball = {
 }
 ```
 ---
+---
+
+## Collaborating on This Repository
+### Repository Link:
+[GitHub Repository for RoboCup Simulation](https://github.com/Deshad/Robo_Cup.git)
+
+### Pulling and Pushing Code
+#### Pull the Latest Code
+1. Open your terminal.
+2. Navigate to your local repository directory.
+3. Run the following command to pull the latest changes:
+   ```bash
+   git pull origin main
+   ```
+
+#### Push Your Changes
+1. Stage your changes:
+   ```bash
+   git add .
+   ```
+2. Commit your changes with a meaningful message:
+   ```bash
+   git commit -m "Your commit message"
+   ```
+3. Push the changes to the repository:
+   ```bash
+   git push origin main
+   ```
+
+Ensure you resolve any merge conflicts before pushing and coordinate with the team to avoid overwrites.
